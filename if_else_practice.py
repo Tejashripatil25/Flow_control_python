@@ -258,4 +258,16 @@ OUTPUT:
 Enter Year2020
 2020 is a Leap Year
 `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Example 12:
+#check if number is greater than 0
+number = 10
+if number > 0:
+    print('Number is positive.')
+else:
+    print('Number is Negative.')
+
+print('The if statement is easy')
+OUTPUT:
+Number is positive.
+The if statement is easy
 """
